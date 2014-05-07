@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5064" systemVersion="13C64" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="OutToEat" representedClassName="OutToEat" syncable="YES">
+        <attribute name="numberOfTime" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="sinceDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="totalMoneySpent" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="OutToEat" positionX="-7776" positionY="-907" width="198" height="88"/>
+    </elements>
+</model>
