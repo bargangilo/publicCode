@@ -1,0 +1,517 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		02EFA01718F8698800B35BEB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02EFA01618F8698800B35BEB /* Foundation.framework */; };
+		02EFA01918F8698800B35BEB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02EFA01818F8698800B35BEB /* CoreGraphics.framework */; };
+		02EFA01B18F8698800B35BEB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02EFA01A18F8698800B35BEB /* UIKit.framework */; };
+		02EFA02118F8698800B35BEB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 02EFA01F18F8698800B35BEB /* InfoPlist.strings */; };
+		02EFA02318F8698800B35BEB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 02EFA02218F8698800B35BEB /* main.m */; };
+		02EFA02718F8698800B35BEB /* ADKAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 02EFA02618F8698800B35BEB /* ADKAppDelegate.m */; };
+		02EFA02A18F8698800B35BEB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02EFA02818F8698800B35BEB /* Main.storyboard */; };
+		02EFA02D18F8698800B35BEB /* ADKViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 02EFA02C18F8698800B35BEB /* ADKViewController.m */; };
+		02EFA02F18F8698800B35BEB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02EFA02E18F8698800B35BEB /* Images.xcassets */; };
+		02EFA03618F8698800B35BEB /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02EFA03518F8698800B35BEB /* XCTest.framework */; };
+		02EFA03718F8698800B35BEB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02EFA01618F8698800B35BEB /* Foundation.framework */; };
+		02EFA03818F8698800B35BEB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02EFA01A18F8698800B35BEB /* UIKit.framework */; };
+		02EFA04018F8698800B35BEB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 02EFA03E18F8698800B35BEB /* InfoPlist.strings */; };
+		02EFA04218F8698800B35BEB /* PaletteTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 02EFA04118F8698800B35BEB /* PaletteTests.m */; };
+		02EFA04C18F86A4500B35BEB /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02EFA04B18F86A4500B35BEB /* AssetsLibrary.framework */; };
+		02EFA04F18F8836800B35BEB /* ADKPhotoDataModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 02EFA04E18F8836800B35BEB /* ADKPhotoDataModel.m */; };
+		02EFA05218F898A900B35BEB /* ADKColorCluster.m in Sources */ = {isa = PBXBuildFile; fileRef = 02EFA05118F898A900B35BEB /* ADKColorCluster.m */; };
+		02EFA05518FA8E4B00B35BEB /* shadespng.png in Resources */ = {isa = PBXBuildFile; fileRef = 02EFA05418FA8E4B00B35BEB /* shadespng.png */; };
+		02EFA05818FA9C6B00B35BEB /* ADKColorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 02EFA05718FA9C6B00B35BEB /* ADKColorViewController.m */; };
+		02EFA05E18FAEF6300B35BEB /* RGB.txt in Resources */ = {isa = PBXBuildFile; fileRef = 02EFA05D18FAEF6300B35BEB /* RGB.txt */; };
+		02EFA06018FB019700B35BEB /* RGB2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 02EFA05F18FB019700B35BEB /* RGB2.txt */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		02EFA03918F8698800B35BEB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 02EFA00B18F8698800B35BEB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 02EFA01218F8698800B35BEB;
+			remoteInfo = Palette;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		02EFA01318F8698800B35BEB /* Palette.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Palette.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		02EFA01618F8698800B35BEB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		02EFA01818F8698800B35BEB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		02EFA01A18F8698800B35BEB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		02EFA01E18F8698800B35BEB /* Palette-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Palette-Info.plist"; sourceTree = "<group>"; };
+		02EFA02018F8698800B35BEB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		02EFA02218F8698800B35BEB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		02EFA02418F8698800B35BEB /* Palette-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Palette-Prefix.pch"; sourceTree = "<group>"; };
+		02EFA02518F8698800B35BEB /* ADKAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ADKAppDelegate.h; sourceTree = "<group>"; };
+		02EFA02618F8698800B35BEB /* ADKAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ADKAppDelegate.m; sourceTree = "<group>"; };
+		02EFA02918F8698800B35BEB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		02EFA02B18F8698800B35BEB /* ADKViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ADKViewController.h; sourceTree = "<group>"; };
+		02EFA02C18F8698800B35BEB /* ADKViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ADKViewController.m; sourceTree = "<group>"; };
+		02EFA02E18F8698800B35BEB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		02EFA03418F8698800B35BEB /* PaletteTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PaletteTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		02EFA03518F8698800B35BEB /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		02EFA03D18F8698800B35BEB /* PaletteTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PaletteTests-Info.plist"; sourceTree = "<group>"; };
+		02EFA03F18F8698800B35BEB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		02EFA04118F8698800B35BEB /* PaletteTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PaletteTests.m; sourceTree = "<group>"; };
+		02EFA04B18F86A4500B35BEB /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
+		02EFA04D18F8836800B35BEB /* ADKPhotoDataModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADKPhotoDataModel.h; sourceTree = "<group>"; };
+		02EFA04E18F8836800B35BEB /* ADKPhotoDataModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADKPhotoDataModel.m; sourceTree = "<group>"; };
+		02EFA05018F898A900B35BEB /* ADKColorCluster.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADKColorCluster.h; sourceTree = "<group>"; };
+		02EFA05118F898A900B35BEB /* ADKColorCluster.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADKColorCluster.m; sourceTree = "<group>"; };
+		02EFA05318FA875D00B35BEB /* palette120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = palette120.png; sourceTree = "<group>"; };
+		02EFA05418FA8E4B00B35BEB /* shadespng.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shadespng.png; sourceTree = "<group>"; };
+		02EFA05618FA9C6B00B35BEB /* ADKColorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADKColorViewController.h; sourceTree = "<group>"; };
+		02EFA05718FA9C6B00B35BEB /* ADKColorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADKColorViewController.m; sourceTree = "<group>"; };
+		02EFA05D18FAEF6300B35BEB /* RGB.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RGB.txt; sourceTree = "<group>"; };
+		02EFA05F18FB019700B35BEB /* RGB2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RGB2.txt; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		02EFA01018F8698800B35BEB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				02EFA04C18F86A4500B35BEB /* AssetsLibrary.framework in Frameworks */,
+				02EFA01918F8698800B35BEB /* CoreGraphics.framework in Frameworks */,
+				02EFA01B18F8698800B35BEB /* UIKit.framework in Frameworks */,
+				02EFA01718F8698800B35BEB /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		02EFA03118F8698800B35BEB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				02EFA03618F8698800B35BEB /* XCTest.framework in Frameworks */,
+				02EFA03818F8698800B35BEB /* UIKit.framework in Frameworks */,
+				02EFA03718F8698800B35BEB /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		02EFA00A18F8698800B35BEB = {
+			isa = PBXGroup;
+			children = (
+				02EFA05318FA875D00B35BEB /* palette120.png */,
+				02EFA01C18F8698800B35BEB /* Palette */,
+				02EFA03B18F8698800B35BEB /* PaletteTests */,
+				02EFA01518F8698800B35BEB /* Frameworks */,
+				02EFA01418F8698800B35BEB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		02EFA01418F8698800B35BEB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				02EFA01318F8698800B35BEB /* Palette.app */,
+				02EFA03418F8698800B35BEB /* PaletteTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		02EFA01518F8698800B35BEB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				02EFA04B18F86A4500B35BEB /* AssetsLibrary.framework */,
+				02EFA01618F8698800B35BEB /* Foundation.framework */,
+				02EFA01818F8698800B35BEB /* CoreGraphics.framework */,
+				02EFA01A18F8698800B35BEB /* UIKit.framework */,
+				02EFA03518F8698800B35BEB /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		02EFA01C18F8698800B35BEB /* Palette */ = {
+			isa = PBXGroup;
+			children = (
+				02EFA05F18FB019700B35BEB /* RGB2.txt */,
+				02EFA05D18FAEF6300B35BEB /* RGB.txt */,
+				02EFA05418FA8E4B00B35BEB /* shadespng.png */,
+				02EFA02518F8698800B35BEB /* ADKAppDelegate.h */,
+				02EFA02618F8698800B35BEB /* ADKAppDelegate.m */,
+				02EFA02818F8698800B35BEB /* Main.storyboard */,
+				02EFA05618FA9C6B00B35BEB /* ADKColorViewController.h */,
+				02EFA05718FA9C6B00B35BEB /* ADKColorViewController.m */,
+				02EFA02B18F8698800B35BEB /* ADKViewController.h */,
+				02EFA02C18F8698800B35BEB /* ADKViewController.m */,
+				02EFA04D18F8836800B35BEB /* ADKPhotoDataModel.h */,
+				02EFA04E18F8836800B35BEB /* ADKPhotoDataModel.m */,
+				02EFA05018F898A900B35BEB /* ADKColorCluster.h */,
+				02EFA05118F898A900B35BEB /* ADKColorCluster.m */,
+				02EFA02E18F8698800B35BEB /* Images.xcassets */,
+				02EFA01D18F8698800B35BEB /* Supporting Files */,
+			);
+			path = Palette;
+			sourceTree = "<group>";
+		};
+		02EFA01D18F8698800B35BEB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				02EFA01E18F8698800B35BEB /* Palette-Info.plist */,
+				02EFA01F18F8698800B35BEB /* InfoPlist.strings */,
+				02EFA02218F8698800B35BEB /* main.m */,
+				02EFA02418F8698800B35BEB /* Palette-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		02EFA03B18F8698800B35BEB /* PaletteTests */ = {
+			isa = PBXGroup;
+			children = (
+				02EFA04118F8698800B35BEB /* PaletteTests.m */,
+				02EFA03C18F8698800B35BEB /* Supporting Files */,
+			);
+			path = PaletteTests;
+			sourceTree = "<group>";
+		};
+		02EFA03C18F8698800B35BEB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				02EFA03D18F8698800B35BEB /* PaletteTests-Info.plist */,
+				02EFA03E18F8698800B35BEB /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		02EFA01218F8698800B35BEB /* Palette */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 02EFA04518F8698800B35BEB /* Build configuration list for PBXNativeTarget "Palette" */;
+			buildPhases = (
+				02EFA00F18F8698800B35BEB /* Sources */,
+				02EFA01018F8698800B35BEB /* Frameworks */,
+				02EFA01118F8698800B35BEB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Palette;
+			productName = Palette;
+			productReference = 02EFA01318F8698800B35BEB /* Palette.app */;
+			productType = "com.apple.product-type.application";
+		};
+		02EFA03318F8698800B35BEB /* PaletteTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 02EFA04818F8698800B35BEB /* Build configuration list for PBXNativeTarget "PaletteTests" */;
+			buildPhases = (
+				02EFA03018F8698800B35BEB /* Sources */,
+				02EFA03118F8698800B35BEB /* Frameworks */,
+				02EFA03218F8698800B35BEB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				02EFA03A18F8698800B35BEB /* PBXTargetDependency */,
+			);
+			name = PaletteTests;
+			productName = PaletteTests;
+			productReference = 02EFA03418F8698800B35BEB /* PaletteTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		02EFA00B18F8698800B35BEB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = ADK;
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Donovan King";
+				TargetAttributes = {
+					02EFA01218F8698800B35BEB = {
+						DevelopmentTeam = 5RHA4538AE;
+					};
+					02EFA03318F8698800B35BEB = {
+						TestTargetID = 02EFA01218F8698800B35BEB;
+					};
+				};
+			};
+			buildConfigurationList = 02EFA00E18F8698800B35BEB /* Build configuration list for PBXProject "Palette" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 02EFA00A18F8698800B35BEB;
+			productRefGroup = 02EFA01418F8698800B35BEB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				02EFA01218F8698800B35BEB /* Palette */,
+				02EFA03318F8698800B35BEB /* PaletteTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		02EFA01118F8698800B35BEB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				02EFA02F18F8698800B35BEB /* Images.xcassets in Resources */,
+				02EFA05E18FAEF6300B35BEB /* RGB.txt in Resources */,
+				02EFA05518FA8E4B00B35BEB /* shadespng.png in Resources */,
+				02EFA02118F8698800B35BEB /* InfoPlist.strings in Resources */,
+				02EFA02A18F8698800B35BEB /* Main.storyboard in Resources */,
+				02EFA06018FB019700B35BEB /* RGB2.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		02EFA03218F8698800B35BEB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				02EFA04018F8698800B35BEB /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		02EFA00F18F8698800B35BEB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				02EFA02D18F8698800B35BEB /* ADKViewController.m in Sources */,
+				02EFA02318F8698800B35BEB /* main.m in Sources */,
+				02EFA02718F8698800B35BEB /* ADKAppDelegate.m in Sources */,
+				02EFA05218F898A900B35BEB /* ADKColorCluster.m in Sources */,
+				02EFA04F18F8836800B35BEB /* ADKPhotoDataModel.m in Sources */,
+				02EFA05818FA9C6B00B35BEB /* ADKColorViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		02EFA03018F8698800B35BEB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				02EFA04218F8698800B35BEB /* PaletteTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		02EFA03A18F8698800B35BEB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 02EFA01218F8698800B35BEB /* Palette */;
+			targetProxy = 02EFA03918F8698800B35BEB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		02EFA01F18F8698800B35BEB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				02EFA02018F8698800B35BEB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		02EFA02818F8698800B35BEB /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				02EFA02918F8698800B35BEB /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		02EFA03E18F8698800B35BEB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				02EFA03F18F8698800B35BEB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		02EFA04318F8698800B35BEB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		02EFA04418F8698800B35BEB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		02EFA04618F8698800B35BEB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Palette/Palette-Prefix.pch";
+				INFOPLIST_FILE = "Palette/Palette-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		02EFA04718F8698800B35BEB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Palette/Palette-Prefix.pch";
+				INFOPLIST_FILE = "Palette/Palette-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		02EFA04918F8698800B35BEB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Palette.app/Palette";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Palette/Palette-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "PaletteTests/PaletteTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		02EFA04A18F8698800B35BEB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Palette.app/Palette";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Palette/Palette-Prefix.pch";
+				INFOPLIST_FILE = "PaletteTests/PaletteTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		02EFA00E18F8698800B35BEB /* Build configuration list for PBXProject "Palette" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				02EFA04318F8698800B35BEB /* Debug */,
+				02EFA04418F8698800B35BEB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		02EFA04518F8698800B35BEB /* Build configuration list for PBXNativeTarget "Palette" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				02EFA04618F8698800B35BEB /* Debug */,
+				02EFA04718F8698800B35BEB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		02EFA04818F8698800B35BEB /* Build configuration list for PBXNativeTarget "PaletteTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				02EFA04918F8698800B35BEB /* Debug */,
+				02EFA04A18F8698800B35BEB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 02EFA00B18F8698800B35BEB /* Project object */;
+}

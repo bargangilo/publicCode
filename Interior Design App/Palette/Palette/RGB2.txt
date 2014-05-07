@@ -1,0 +1,548 @@
+0 255 250 250		Snow\
+248 248 255		Ghost White\
+245 245 245		White Smoke\
+220 220 220		Gainsboro\
+255 250 240		Floral White\
+253 245 230		OldLace\
+250 240 230		Linen\
+250 235 215		Antique White\
+255 239 213		Papaya Whip\
+255 235 205		Blanched Almond\
+255 228 196		Bisque\
+255 218 185		Peach Puff\
+255 222 173		Navajo White\
+255 228 181		Moccasin\
+255 248 220		Cornsilk\
+255 255 240		Ivory\
+255 250 205		Lemon Chiffon\
+255 245 238		Seashell\
+240 255 240		Honeydew\
+245 255 250		Mint Cream\
+240 255 255		Azure\
+240 248 255		Alice Blue\
+230 230 250		Lavender\
+255 240 245		Lavender Blush\
+255 228 225		Misty Rose\
+255 255 255		White\
+  0   0   0		Black\
+ 47  79  79		Dark Slate Gray\
+105 105 105		Dim Gray\
+112 128 144		Slate Gray\
+119 136 153		Light Slate Gray\
+190 190 190		Gray\
+211 211 211		Light Gray\
+ 25  25 112		Midnight Blue\
+  0   0 128		Navy\
+  0   0 128		Navy Blue\
+100 149 237		Cornflower Blue\
+ 72  61 139		Dark Slate Blue\
+106  90 205		Slate Blue\
+123 104 238		Medium Slate Blue\
+132 112 255		Light Slate Blue\
+  0   0 205		Medium Blue\
+ 65 105 225		RoyalBlue\
+  0   0 255		Blue\
+ 30 144 255		Dodger Blue\
+  0 191 255		Deep Sky Blue\
+135 206 235		Sky Blue\
+135 206 250		Light Sky Blue\
+ 70 130 180		Steel Blue\
+176 196 222		Light Steel Blue\
+173 216 230		Light Blue\
+176 224 230		Powder Blue\
+175 238 238		Pale Turquoise\
+  0 206 209		Dark Turquoise\
+ 72 209 204		Medium Turquoise\
+ 64 224 208		Turquoise\
+  0 255 255		Cyan\
+224 255 255		Light Cyan\
+ 95 158 160		Cadet Blue\
+102 205 170		Medium Aquamarine\
+127 255 212		Aquamarine\
+  0 100   0		Dark Green\
+ 85 107  47		Dark Olive Green\
+143 188 143		Dark Sea Green\
+ 46 139  87		Sea Green\
+ 60 179 113		Medium Sea Green\
+ 32 178 170		Light Sea Green\
+152 251 152		Pale Green\
+  0 255 127		Spring Green\
+124 252   0		Lawn Green\
+  0 255   0		Green\
+127 255   0		Chartreuse\
+  0 250 154		Medium Spring Green\
+173 255  47		Green Yellow\
+ 50 205  50		Lime Green\
+154 205  50		Yellow Green\
+ 34 139  34		Forest Green\
+107 142  35		Olive Drab\
+189 183 107		DarkKhaki\
+240 230 140		Khaki\
+238 232 170		Pale Goldenrod\
+250 250 210		Light Goldenrod Yellow\
+255 255 224		Light Yellow\
+255 255   0		Yellow\
+238 221 130		Light Goldenrod\
+218 165  32		Goldenrod\
+184 134  11		Dark Goldenrod\
+188 143 143		Rosy Brown\
+205  92  92		Indian Red\
+139  69  19		Saddle Brown\
+160  82  45		Sienna\
+205 133  63		Peru\
+222 184 135		Burlywood\
+245 245 220		Beige\
+245 222 179		Wheat\
+244 164  96		Sandy Brown\
+210 180 140		Tan\
+210 105  30		Chocolate\
+178  34  34		Firebrick\
+165  42  42		Brown\
+233 150 122		Dark Salmon\
+250 128 114		Salmon\
+255 160 122		Light Salmon\
+255 165   0		Orange\
+255 140   0		Dark Orange\
+255 127  80		Coral\
+240 128 128		Light Coral\
+255  99  71		Tomato\
+255  69   0		Orange Red\
+255   0   0		Red\
+255 105 180		Hot Pink\
+255  20 147		Deep Pink\
+255 192 203		Pink\
+255 182 193		Light Pink\
+219 112 147		Pale Violet Red\
+176  48  96		Maroon\
+199  21 133		Medium Violet Red\
+208  32 144		Violet Red\
+255   0 255		Magenta\
+238 130 238		Violet\
+221 160 221		Plum\
+218 112 214		Orchid\
+186  85 211		Medium Orchid\
+153  50 204		Dark Orchid\
+148   0 211		Dark Violet\
+138  43 226		Blue Violet\
+160  32 240		Purple\
+147 112 219		Medium Purple\
+216 191 216		Thistle\
+255 250 250		Snow\
+238 233 233		Snow\
+205 201 201		Snow\
+139 137 137		Snow\
+255 245 238		Seashell\
+238 229 222		Seashell\
+205 197 191		Seashell\
+139 134 130		Seashell\
+255 239 219		Antique White\
+238 223 204		Antique White\
+205 192 176		Antique White\
+139 131 120		Antique White\
+255 228 196		Bisque\
+238 213 183		Bisque\
+205 183 158		Bisque\
+139 125 107		Bisque\
+255 218 185		Peach Puff\
+238 203 173		Peach Puff\
+205 175 149		Peach Puff\
+139 119 101		Peach Puff\
+255 222 173		Navajo White\
+238 207 161		Navajo White\
+205 179 139		Navajo White\
+139 121	 94		Navajo White\
+255 250 205		Lemon Chiffon\
+238 233 191		Lemon Chiffon\
+205 201 165		Lemon Chiffon\
+139 137 112		Lemon Chiffon\
+255 248 220		Cornsilk\
+238 232 205		Cornsilk\
+205 200 177		Cornsilk\
+139 136 120		Cornsilk\
+255 255 240		Ivory\
+238 238 224		Ivory\
+205 205 193		Ivory\
+139 139 131		Ivory\
+240 255 240		Honeydew\
+224 238 224		Honeydew\
+193 205 193		Honeydew\
+131 139 131		Honeydew\
+255 240 245		Lavender Blush\
+238 224 229		Lavender Blush\
+205 193 197		Lavender Blush\
+139 131 134		Lavender Blush\
+255 228 225		Misty Rose\
+238 213 210		Misty Rose\
+205 183 181		Misty Rose\
+139 125 123		Misty Rose\
+240 255 255		Azure\
+224 238 238		Azure\
+193 205 205		Azure\
+131 139 139		Azure\
+131 111 255		Slate Blue\
+122 103 238		Slate Blue\
+105  89 205		Slate Blue\
+ 71  60 139		Slate Blue\
+ 72 118 255		Royal Blue\
+ 67 110 238		Royal Blue\
+ 58  95 205		Royal Blue\
+ 39  64 139		Royal Blue\
+  0   0 255		Blue\
+  0   0 238		Blue\
+  0   0 205		Blue\
+  0   0 139		Blue\
+ 30 144 255		Dodger Blue\
+ 28 134 238		Dodger Blue\
+ 24 116 205		Dodger Blue\
+ 16  78 139		Dodger Blue\
+ 99 184 255		Steel Blue\
+ 92 172 238		Steel Blue\
+ 79 148 205		Steel Blue\
+ 54 100 139		Steel Blue\
+  0 191 255		Deep Sky Blue\
+  0 178 238		Deep Sky Blue\
+  0 154 205		Deep Sky Blue\
+  0 104 139		Deep Sky Blue\
+135 206 255		Sky Blue\
+126 192 238		Sky Blue\
+108 166 205		Sky Blue\
+ 74 112 139		Sky Blue\
+176 226 255		Light Sky Blue\
+164 211 238		Light Sky Blue\
+141 182 205		Light Sky Blue\
+ 96 123 139		Light Sky Blue\
+198 226 255		Slate Gray\
+185 211 238		Slate Gray\
+159 182 205		Slate Gray\
+108 123 139		Slate Gray\
+202 225 255		Light Steel Blue\
+188 210 238		Light Steel Blue\
+162 181 205		Light Steel Blue\
+110 123 139		Light Steel Blue\
+191 239 255		Light Blue\
+178 223 238		Light Blue\
+154 192 205		Light Blue\
+104 131 139		Light Blue\
+224 255 255		Light Cyan\
+209 238 238		Light Cyan\
+180 205 205		Light Cyan\
+122 139 139		Light Cyan\
+187 255 255		Pale Turquoise\
+174 238 238		Pale Turquoise\
+150 205 205		Pale Turquoise\
+102 139 139		Pale Turquoise\
+152 245 255		Cadet Blue\
+142 229 238		Cadet Blue\
+122 197 205		Cadet Blue\
+ 83 134 139		Cadet Blue\
+  0 245 255		Turquoise\
+  0 229 238		Turquoise\
+  0 197 205		Turquoise\
+  0 134 139		Turquoise\
+  0 255 255		Cyan\
+  0 238 238		Cyan\
+  0 205 205		Cyan\
+  0 139 139		Cyan\
+151 255 255		Dark Slate Gray\
+141 238 238		Dark Slate Gray\
+121 205 205		Dark Slate Gray\
+ 82 139 139		Dark Slate Gray\
+127 255 212		Aquamarine\
+118 238 198		Aquamarine\
+102 205 170		Aquamarine\
+ 69 139 116		Aquamarine\
+193 255 193		Dark SeaGreen\
+180 238 180		Dark SeaGreen\
+155 205 155		Dark SeaGreen\
+105 139 105		Dark SeaGreen\
+ 84 255 159		Sea Green\
+ 78 238 148		Sea Green\
+ 67 205 128		Sea Green\
+ 46 139	 87		Sea Green\
+154 255 154		Pale Green\
+144 238 144		Pale Green\
+124 205 124		Pale Green\
+ 84 139	 84		Pale Green\
+  0 255 127		Spring Green\
+  0 238 118		Spring Green\
+  0 205 102		Spring Green\
+  0 139	 69		Spring Green\
+  0 255	  0		Green\
+  0 238	  0		Green\
+  0 205	  0		Green\
+  0 139	  0		Green\
+127 255	  0		Chartreuse\
+118 238	  0		Chartreuse\
+102 205	  0		Chartreuse\
+ 69 139	  0		Chartreuse\
+192 255	 62		Olive Drab\
+179 238	 58		Olive Drab\
+154 205	 50		Olive Drab\
+105 139	 34		Olive Drab\
+202 255 112		Dark Olive Green\
+188 238 104		Dark Olive Green\
+162 205	 90		Dark Olive Green\
+110 139	 61		Dark Olive Green\
+255 246 143		Khaki\
+238 230 133		Khaki\
+205 198 115		Khaki\
+139 134	 78		Khaki\
+255 236 139		Light Goldenrod\
+238 220 130		Light Goldenrod\
+205 190 112		Light Goldenrod\
+139 129	 76		Light Goldenrod\
+255 255 224		Light Yellow\
+238 238 209		Light Yellow\
+205 205 180		Light Yellow\
+139 139 122		Light Yellow\
+255 255	  0		Yellow\
+238 238	  0		Yellow\
+205 205	  0		Yellow\
+139 139	  0		Yellow\
+255 215	  0		Gold\
+238 201	  0		Gold\
+205 173	  0		Gold\
+139 117	  0		Gold\
+255 193	 37		Goldenrod\
+238 180	 34		Goldenrod\
+205 155	 29		Goldenrod\
+139 105	 20		Goldenrod\
+255 185	 15		Dark Goldenrod\
+238 173	 14		Dark Goldenrod\
+205 149	 12		Dark Goldenrod\
+139 101	  8		Dark Goldenrod\
+255 193 193		Rosy Brown\
+238 180 180		Rosy Brown\
+205 155 155		Rosy Brown\
+139 105 105		Rosy Brown\
+255 106 106		Indian Red\
+238  99	 99		Indian Red\
+205  85	 85		Indian Red\
+139  58	 58		Indian Red\
+255 130	 71		Sienna\
+238 121	 66		Sienna\
+205 104	 57		Sienna\
+139  71	 38		Sienna\
+255 211 155		Burlywood\
+238 197 145		Burlywood\
+205 170 125		Burlywood\
+139 115	 85		Burlywood\
+255 231 186		Wheat\
+238 216 174		Wheat\
+205 186 150		Wheat\
+139 126 102		Wheat\
+255 165	 79		Tan\
+238 154	 73		Tan\
+205 133	 63		Tan\
+139  90	 43		Tan\
+255 127	 36		Chocolate\
+238 118	 33		Chocolate\
+205 102	 29		Chocolate\
+139  69	 19		Chocolate\
+255  48	 48		Firebrick\
+238  44	 44		Firebrick\
+205  38	 38		Firebrick\
+139  26	 26		Firebrick\
+255  64	 64		Brown\
+238  59	 59		Brown\
+205  51	 51		Brown\
+139  35	 35		Brown\
+255 140 105		Salmon\
+238 130	 98		Salmon\
+205 112	 84		Salmon\
+139  76	 57		Salmon\
+255 160 122		Light Salmon\
+238 149 114		Light Salmon\
+205 129	 98		Light Salmon\
+139  87	 66		Light Salmon\
+255 165	  0		Orange\
+238 154	  0		Orange\
+205 133	  0		Orange\
+139  90	  0		Orange\
+255 127	  0		Dark Orange\
+238 118	  0		Dark Orange\
+205 102	  0		Dark Orange\
+139  69	  0		Dark Orange\
+255 114	 86		Coral\
+238 106	 80		Coral\
+205  91	 69		Coral\
+139  62	 47		Coral\
+255  99	 71		Tomato\
+238  92	 66		Tomato\
+205  79	 57		Tomato\
+139  54	 38		Tomato\
+255  69	  0		Orange Red\
+238  64	  0		Orange Red\
+205  55	  0		Orange Red\
+139  37	  0		Orange Red\
+255   0	  0		Red\
+238   0	  0		Red\
+205   0	  0		Red\
+139   0	  0		Red\
+255  20 147		Deep Pink\
+238  18 137		Deep Pink\
+205  16 118		Deep Pink\
+139  10	 80		Deep Pink\
+255 110 180		Hot Pink\
+238 106 167		Hot Pink\
+205  96 144		Hot Pink\
+139  58  98		Hot Pink\
+255 181 197		Pink\
+238 169 184		Pink\
+205 145 158		Pink\
+139  99 108		Pink\
+255 174 185		Light Pink\
+238 162 173		Light Pink\
+205 140 149		Light Pink\
+139  95 101		Light Pink\
+255 130 171		Pale Violet Red\
+238 121 159		Pale Violet Red\
+205 104 137		Pale Violet Red\
+139  71	 93		Pale Violet Red\
+255  52 179		Maroon\
+238  48 167		Maroon\
+205  41 144		Maroon\
+139  28	 98		Maroon\
+255  62 150		Violet Red\
+238  58 140		Violet Red\
+205  50 120		Violet Red\
+139  34	 82		Violet Red\
+255   0 255		Magenta\
+238   0 238		Magenta\
+205   0 205		Magenta\
+139   0 139		Magenta\
+255 131 250		Orchid\
+238 122 233		Orchid\
+205 105 201		Orchid\
+139  71 137		Orchid\
+255 187 255		Plum\
+238 174 238		Plum\
+205 150 205		Plum\
+139 102 139		Plum\
+224 102 255		Medium Orchid\
+209  95 238		Medium Orchid\
+180  82 205		Medium Orchid\
+122  55 139		Medium Orchid\
+191  62 255		Dark Orchid\
+178  58 238		Dark Orchid\
+154  50 205		Dark Orchid\
+104  34 139		Dark Orchid\
+155  48 255		Purple\
+145  44 238		Purple\
+125  38 205		Purple\
+ 85  26 139		Purple\
+171 130 255		Medium Purple\
+159 121 238		Medium Purple\
+137 104 205		Medium Purple\
+ 93  71 139		Medium Purple\
+255 225 255		Thistle\
+238 210 238		Thistle\
+205 181 205		Thistle\
+139 123 139		Thistle\
+  0   0   0		Gray\
+  3   3   3		Gray\
+  5   5   5		Gray\
+  8   8   8		Gray\
+ 10  10  10 		Gray\
+ 13  13  13 		Gray\
+ 15  15  15 		Gray\
+ 18  18  18 		Gray\
+ 20  20  20 		Gray\
+ 23  23  23 		Gray\
+ 26  26  26 		Gray\
+ 28  28  28 		Gray\
+ 31  31  31 		Gray\
+ 33  33  33 		Gray\
+ 36  36  36 		Gray\
+ 38  38  38 		Gray\
+ 41  41  41 		Gray\
+ 43  43  43 		Gray\
+ 46  46  46 		Gray\
+ 48  48  48 		Gray\
+ 51  51  51 		Gray\
+ 54  54  54 		Gray\
+ 56  56  56 		Gray\
+ 59  59  59 		Gray\
+ 61  61  61 		Gray\
+ 64  64  64 		Gray\
+ 66  66  66 		Gray\
+ 69  69  69 		Gray\
+ 71  71  71 		Gray\
+ 74  74  74 		Gray\
+ 77  77  77 		Gray\
+ 79  79  79 		Gray\
+ 82  82  82 		Gray\
+ 84  84  84 		Gray\
+ 87  87  87 		Gray\
+ 89  89  89 		Gray\
+ 92  92  92 		Gray\
+ 94  94  94 		Gray\
+ 97  97  97 		Gray\
+ 99  99  99 		Gray\
+102 102 102 		Gray\
+105 105 105 		Gray\
+107 107 107 		Gray\
+110 110 110 		Gray\
+112 112 112 		Gray\
+115 115 115 		Gray\
+117 117 117 		Gray\
+120 120 120 		Gray\
+122 122 122 		Gray\
+125 125 125 		Gray\
+127 127 127 		Gray\
+130 130 130 		Gray\
+133 133 133 		Gray\
+135 135 135 		Gray\
+138 138 138 		Gray\
+140 140 140 		Gray\
+143 143 143 		Gray\
+145 145 145 		Gray\
+148 148 148 		Gray\
+150 150 150 		Gray\
+153 153 153 		Gray\
+156 156 156 		Gray\
+158 158 158 		Gray\
+161 161 161 		Gray\
+163 163 163 		Gray\
+166 166 166 		Gray\
+168 168 168 		Gray\
+171 171 171 		Gray\
+173 173 173 		Gray\
+176 176 176 		Gray\
+179 179 179 		Gray\
+181 181 181 		Gray\
+184 184 184 		Gray\
+186 186 186 		Gray\
+189 189 189 		Gray\
+191 191 191 		Gray\
+194 194 194 		Gray\
+196 196 196 		Gray\
+199 199 199 		Gray\
+201 201 201 		Gray\
+204 204 204 		Gray\
+207 207 207 		Gray\
+209 209 209 		Gray\
+212 212 212 		Gray\
+214 214 214 		Gray\
+217 217 217 		Gray\
+219 219 219 		Gray\
+222 222 222 		Gray\
+224 224 224 		Gray\
+227 227 227 		Gray\
+229 229 229 		Gray\
+232 232 232 		Gray\
+235 235 235 		Gray\
+237 237 237 		Gray\
+240 240 240 		Gray\
+242 242 242 		Gray\
+245 245 245 		Gray\
+247 247 247 		Gray\
+250 250 250 		Gray\
+252 252 252 		Gray\
+255 255 255 		Gray\
+169 169 169		Dark Gray\
+0     0 139		Dark Blue\
+0   139 139		Dark Cyan\
+139   0 139		Dark Magenta\
+139   0   0		Dark Red\
+144 238 144		Light Green\
